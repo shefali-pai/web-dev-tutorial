@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "hack110-project",
+			"path": "../hack110-project/hack110-project"
+		}
+	],
+	"settings": {}
+}
